@@ -19,10 +19,9 @@ import com.google.firebase.ktx.Firebase
 
 class MenuActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMenuBinding
-  //  private val REQUEST_PERMISSIONS_REQUEST_CODE = 1
-    // NUEVA RAMA DANIEL
+    //  private val REQUEST_PERMISSIONS_REQUEST_CODE = 1
 
-    // OTRO CAMBIO DE PRUEBA 2021
+    // ULTIMO CAMBIO
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
