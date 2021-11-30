@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="@dimen/cardCornerRadius"
+    app:cardElevation="@dimen/cardElevation"
+    android:layout_margin="@dimen/defaultLayoutMargin">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/heigthImageProduct"
+            android:src="@mipmap/ic_launcher"
+            android:layout_margin="@dimen/defaultLayoutMargin"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Producto"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:textSize="@dimen/sizeNameProduct"
+            android:textColor="@color/primaryTextColor"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="$999.999"
+            android:gravity="center_horizontal"
+            android:textSize="@dimen/sizePriceProduct"
+            android:textColor="@color/primaryTextColor"/>
+
+    </LinearLayout>
+    
+    
+
+</androidx.cardview.widget.CardView>

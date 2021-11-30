@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navHomeFragment">
+
+    <fragment
+        android:id="@+id/navHomeFragment"
+        android:name="com.example.firebaseloginkotlin.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_orderFragment"
+            app:destination="@id/navOrderFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/navOrderFragment"
+        android:name="com.example.firebaseloginkotlin.fragments.OrderFragment"
+        android:label="fragment_order"
+        tools:layout="@layout/fragment_order" >
+        <action
+            android:id="@+id/action_orderFragment_to_comentsFragment"
+            app:destination="@id/navCommentsFragment" />
+        <action
+            android:id="@+id/action_navOrderFragment_to_orderDetailFragmentDialog"
+            app:destination="@id/orderDetailFragmentDialog" />
+    </fragment>
+    <fragment
+        android:id="@+id/navCommentsFragment"
+        android:name="com.example.firebaseloginkotlin.fragments.ComentsFragment"
+        android:label="fragment_coments"
+        tools:layout="@layout/fragment_coments" >
+        <action
+            android:id="@+id/action_comentsFragment_to_adminFragment"
+            app:destination="@id/navAdminFragment" />
+        <action
+            android:id="@+id/action_navCommentsFragment_to_commentsDetailFragmentDialog"
+            app:destination="@id/commentsDetailFragmentDialog" />
+    </fragment>
+    <fragment
+        android:id="@+id/navAdminFragment"
+        android:name="com.example.firebaseloginkotlin.fragments.AdminFragment"
+        android:label="fragment_admin"
+        tools:layout="@layout/fragment_admin" >
+        <action
+            android:id="@+id/action_navAdminFragment_to_adminDetailFragmentDialog"
+            app:destination="@id/adminDetailFragmentDialog" />
+    </fragment>
+
+    <dialog
+        android:id="@+id/orderDetailFragmentDialog"
+        android:name="com.example.firebaseloginkotlin.fragments.OrderDetailDialogFragment"
+        android:label="OrderDetailFragmentDialog"
+        tools:layout="@layout/fragment_order_detail_dialog"/>
+    <dialog
+        android:id="@+id/commentsDetailFragmentDialog"
+        android:name="com.example.firebaseloginkotlin.fragments.ComentsDetailDialogFragment"
+        android:label="CommentsDetailFragmentDialog"
+        tools:layout="@layout/fragment_coments_detail_dialog"/>
+    <fragment
+        android:id="@+id/adminDetailFragmentDialog"
+        android:name="com.example.firebaseloginkotlin.fragments.AdminDetailDialogFragment"
+        android:label="AdminDetailFragmentDialog"
+        tools:layout="@layout/fragment_admin_detail_dialog">
+
+    </fragment>
+
+
+</navigation>
