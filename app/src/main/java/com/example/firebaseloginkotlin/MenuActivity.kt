@@ -21,7 +21,7 @@ class MenuActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMenuBinding
     //  private val REQUEST_PERMISSIONS_REQUEST_CODE = 1
 
-    // ULTIMO CAMBIO
+    // RAMA LOCAL
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
