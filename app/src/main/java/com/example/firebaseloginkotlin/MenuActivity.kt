@@ -37,7 +37,7 @@ class MenuActivity : AppCompatActivity() {
 
 
         }*/
-        binding.catalogoImageView.setOnClickListener {
+      /*  binding.catalogoImageView.setOnClickListener {
             catalogo()
 
 
@@ -53,7 +53,7 @@ class MenuActivity : AppCompatActivity() {
             signOut()
 
 
-        }
+        }*/
 
        /* button.setOnClickListener(){
             MainActivity()
@@ -75,7 +75,7 @@ class MenuActivity : AppCompatActivity() {
     }
 
 
-    private fun signOut(){
+   /* private fun signOut(){
         Firebase.auth.signOut()
         val intent = Intent(this, SignInActivity::class.java )
         startActivity(intent)
@@ -91,7 +91,7 @@ class MenuActivity : AppCompatActivity() {
         Firebase.auth.signOut()
         val intent = Intent(this, MainActivity::class.java )
         startActivity(intent)
-    }
+    }*/
 
 
 

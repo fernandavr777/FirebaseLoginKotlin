@@ -24,9 +24,9 @@
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/activity_update_password.xml" value="0.18" />
-        <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/fragment_admin.xml" value="0.1" />
+        <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/fragment_admin.xml" value="0.18" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/fragment_admin_detail_dialog.xml" value="0.1" />
-        <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/fragment_coments.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/fragment_coments.xml" value="0.18" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/fragment_coments_detail_dialog.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/fragment_home.xml" value="0.22" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/fragment_order.xml" value="0.22" />
@@ -35,7 +35,7 @@
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/item_product.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/layout_cart_item.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/layout/layout_drink_item.xml" value="0.1" />
-        <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/menu/bnv_menu.xml" value="0.12" />
+        <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/menu/bnv_menu.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseLoginKotlin/app/src/main/res/drawable/ic_email.xml" value="0.2203125" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseLoginKotlin/app/src/main/res/layout/activity_account_recovery.xml" value="0.1" />
