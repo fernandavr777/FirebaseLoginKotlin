@@ -3,6 +3,36 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/drawable/ic_back.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/drawable/ic_baseline_indeterminate_check_box_24.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/drawable/ic_baseline_navigate_before_24.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/drawable/ic_bg.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/drawable/ic_lock.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_account_recovery.xml" value="0.284375" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_cart.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_check_email.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_delete_account.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_main.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_menu.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_second_window.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_sign_in.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_sign_up.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_splash_screen.xml" value="0.284375" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/activity_update_password.xml" value="0.284375" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/fragment_admin.xml" value="0.25" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/fragment_admin_detail_dialog.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/fragment_coments.xml" value="0.25" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/fragment_coments_detail_dialog.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/fragment_home.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/fragment_order.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/fragment_order_detail_dialog.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/item_comments.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/item_product.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/layout_cart_item.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/layout/layout_drink_item.xml" value="0.2078125" />
+        <entry key="..\:/Users/Parapeto/FirebaseLoginKotlin/app/src/main/res/menu/bnv_menu.xml" value="0.2078125" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/drawable/ic_back.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
         <entry key="..\:/Users/violi/AndroidStudioProjects/FirebaseKotlinProyecto/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.1" />

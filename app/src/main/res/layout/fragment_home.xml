@@ -33,24 +33,99 @@
                         android:id="@+id/tvHome"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_margin="@dimen/defaultLayoutMargin"
+                        android:layout_marginBottom="25dp"
+                        android:layout_marginTop="105dp"
+                        android:layout_marginRight="65dp"
+                        android:layout_marginLeft="65dp"
+                        android:fontFamily="sans-serif-medium"
                         android:gravity="fill_horizontal"
-                        android:text="@string/textHome"
-                        android:textColor="@color/primaryTextColor"
-                        android:textSize="@dimen/textSizeContent" />
+                        android:text="@string/Text"
+                        android:textAlignment="center"
+                        android:textColor="#0AA8C2"
+                        android:textSize="50sp" />
 
-             <!--       <ImageView
-                        android:id="@+id/image1"
-                        android:layout_width="409dp"
-                        android:layout_height="393dp"
-                        android:layout_margin="@dimen/defaultLayoutMargin"
-                        android:scaleType="centerCrop"
-                        android:src="@drawable/mulatos" /> -->
+                    <!--       <ImageView
+                               android:id="@+id/image1"
+                               android:layout_width="409dp"
+                               android:layout_height="393dp"
+                               android:layout_margin="@dimen/defaultLayoutMargin"
+                               android:scaleType="centerCrop"
+                               android:src="@drawable/mulatos" /> -->
 
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/misPedidoshome"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="40dp"
+                    android:drawableTop="@drawable/mis_pedidos"
+                    android:drawablePadding="20dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:maxLines="1"
+                    android:text="   Mis pedidos"
+                    android:textColor="#000000"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/misDisenoshome"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginBottom="20dp"
+                    android:drawableTop="@drawable/mis_disenos"
+                    android:drawablePadding="20dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:maxLines="1"
+                    android:text="   Mis diseños"
+                    android:textColor="#000000"
+                    android:textSize="20sp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/productosHome"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="40dp"
+                    android:drawableTop="@drawable/productos"
+                    android:drawablePadding="20dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:maxLines="1"
+                    android:text="     Productos"
+                    android:textColor="#000000"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/background"
+                android:layout_width="match_parent"
+                android:layout_marginTop="24dp"
+                android:layout_height="150dp"
+                android:src="@drawable/background_home"
+                />
+
         </LinearLayout>
+
+
+
+
     </ScrollView>
 
 
