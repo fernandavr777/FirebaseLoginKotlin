@@ -51,6 +51,7 @@
     <string name="hintMail">Correo</string>
     <string name="btSaveAdmin">Guardar cambios</string>
     <string name="catalogoImageView">TODO</string>
+    <string name="Text">Bienvenidos</string>
 
 
 </resources>
